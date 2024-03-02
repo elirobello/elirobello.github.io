@@ -1,0 +1,78 @@
+#tiempossal_txt{
+    font-family: Arial;
+    font-weight: bold;
+    text-align: right;
+    font-size: 18px;
+    color: #fbfdfd;
+    border-radius: 4px;
+}
+
+#display_txt{
+    font-family: Arial;
+    font-weight: bold;
+    text-align:left;
+    font-size: 16px;
+    color: #020202f8;
+    border-radius: 4px;
+}
+#pot_txt{
+    font-family: Arial;
+    font-weight: bold;
+    text-align:center;
+    font-size: 16px;
+    color: #020202f8;
+    border-radius: 4px;
+}
+
+#time_txt{
+    font-family: Arial;
+    font-weight: bold;
+    text-align: center;
+    font-size: 16px;
+    color: #020202f8;
+    border-radius: 4px;
+}
+
+#etiqueta_txt{
+    font-family: Arial;
+    text-align: left;
+    font-size: 18px;
+    color: #020202f8;
+    border-radius: 4px;
+}
+
+
+#voltaje_txt{
+    font-family: Arial;
+    font-weight: bold;
+    text-align: center;
+    font-size: 14px;
+    color: #020202f8;
+    border-radius: 4px;
+}
+
+#resistencia_txt{
+    font-family: Arial;
+    font-weight: bold;
+    text-align: center;
+    font-size: 14px;
+    color: #020202f8;
+    border-radius: 4px;
+}
+#deltatiempo_txt{
+    font-family: Arial;
+    font-weight: bold;
+    text-align:center;
+    font-size: 14px;
+    color: #020202f8;
+    border-radius: 4px;
+}
+
+#TA_txt{
+    font-family: Arial;
+    font-weight: bold;
+    text-align: center;
+    font-size: 14px;
+    color: #020202f8;
+    border-radius: 4px;
+}

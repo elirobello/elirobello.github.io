@@ -1,0 +1,30 @@
+#tiempoini_btn{
+    background-color:rgb(63, 231, 29);
+    border-color:rgb(63, 231, 29);
+    border-radius: 10px;
+    font-family: Arial;
+    font-weight: bold;
+    text-align:center;
+    color: white;
+    font-size:16px;
+}
+#tiempoini_btn:hover {
+    background-color: rgb(18, 163, 95);
+    border-color:rgb(18, 163, 95);
+    color: white;
+}
+#tiempofin_btn{
+    background-color:rgb(243, 9, 9);
+    border-color:rgb(243, 9, 9);
+    border-radius: 10px;
+    font-family: Arial;
+    font-weight: bold;
+    text-align:center;
+    color: white;
+    font-size:16px;
+}
+#tiempofin_btn:hover {
+    background-color: brown;
+    border-color:brown;
+    color: white;
+}
